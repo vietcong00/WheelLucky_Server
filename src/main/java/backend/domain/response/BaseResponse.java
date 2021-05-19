@@ -1,4 +1,4 @@
-package project3.backend.domain.response;
+package backend.domain.response;
 
 public class BaseResponse {
     private String code;

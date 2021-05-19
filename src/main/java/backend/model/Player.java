@@ -1,4 +1,4 @@
-package project3.backend.model;
+package backend.model;
 
 import javax.persistence.*;
 import java.sql.Date;

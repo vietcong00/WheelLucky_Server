@@ -1,13 +1,13 @@
-package project3.backend.service;
+package backend.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import project3.backend.domain.response.PlayerListResponse;
-import project3.backend.domain.response.PlayerResponse;
-import project3.backend.helper.helper.JwtTokenUtil;
-import project3.backend.helper.helper.Regex;
-import project3.backend.model.Player;
-import project3.backend.repository.PlayerRepository;
+import backend.domain.response.PlayerListResponse;
+import backend.domain.response.PlayerResponse;
+import backend.helper.helper.JwtTokenUtil;
+import backend.helper.helper.Regex;
+import backend.model.Player;
+import backend.repository.PlayerRepository;
 
 import java.util.List;
 

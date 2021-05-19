@@ -1,8 +1,8 @@
-package project3.backend.repository;
+package backend.repository;
 
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import project3.backend.model.Player;
+import backend.model.Player;
 
 import java.util.List;
 

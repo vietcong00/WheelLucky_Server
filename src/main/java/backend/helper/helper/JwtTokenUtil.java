@@ -1,10 +1,10 @@
-package project3.backend.helper.helper;
+package backend.helper.helper;
 
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import org.apache.commons.lang3.RandomStringUtils;
-import project3.backend.model.Player;
+import backend.model.Player;
 
 import java.util.HashMap;
 import java.util.List;

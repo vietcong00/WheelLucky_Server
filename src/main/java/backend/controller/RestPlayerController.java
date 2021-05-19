@@ -1,12 +1,12 @@
-package project3.backend.controller;
+package backend.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import project3.backend.domain.response.PlayerListResponse;
-import project3.backend.domain.response.PlayerResponse;
-import project3.backend.model.Player;
-import project3.backend.service.PlayerService;
+import backend.domain.response.PlayerListResponse;
+import backend.domain.response.PlayerResponse;
+import backend.model.Player;
+import backend.service.PlayerService;
 
 
 @RestController

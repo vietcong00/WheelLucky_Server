@@ -1,6 +1,6 @@
-package project3.backend.domain.response;
+package backend.domain.response;
 
-import project3.backend.model.Player;
+import backend.model.Player;
 
 public class PlayerResponse extends BaseResponse {
     Player player;
